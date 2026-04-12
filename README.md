@@ -171,13 +171,6 @@ Configured with React-specific rules and hooks linting.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Support
 
-For support and inquiries:
-- Create an issue in the repository
-- Contact through the website's help center
-- Email: [your-email@domain.com]
 
----
-
-Built with ❤️ for the luxury fragrance community
+Built with ❤️ 
