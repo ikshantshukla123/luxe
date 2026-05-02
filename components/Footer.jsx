@@ -84,10 +84,10 @@ const Footer = () => {
     {
       name: "Instagram",
       image: "/instagram.png",
-      href: "https://www.instagram.com/mr_faisu_07/",
+      href: "https://www.instagram.com/ikshankkk",
     },
     { name: "LinkedIn", image: "/linkedin.png", href: "https://linkedin.com" },
-    { name: "GitHub", image: "/github.png", href: "https://github.com" },
+    { name: "GitHub", image: "/github.png", href: "https://github.com/ikshantshukla123" },
   ];
 
   return (
