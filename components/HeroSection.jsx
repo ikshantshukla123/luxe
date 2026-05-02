@@ -164,7 +164,7 @@ const HeroSection = () => {
                 transition={{ type: "spring", stiffness: 400, damping: 10 }}
               >
                 <Link
-                  to="https://www.instagram.com/mr_faisu_07/"
+                  to="https://www.instagram.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
